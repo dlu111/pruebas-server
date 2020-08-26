@@ -1,0 +1,7 @@
+# Se ignoran los directorios indicados
+/node_modules
+/dist
+# Se ignora el fichero keys.ts
+/src/config/keys.ts
+# Se ignoran todos los ficheros *.js
+*.js
